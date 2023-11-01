@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Anagram/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Anagram/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ArmstrongNumberChecker/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ArmstrongNumberChecker/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CountOfWord/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CountOfWord/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Fibonacci/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Fibonacci/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/First10PerfectNumber/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/First10PerfectNumber/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/TwoFriendsNumber/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/TwoFriendsNumber/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/UniqueCharController/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/UniqueCharController/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

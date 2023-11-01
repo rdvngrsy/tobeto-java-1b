@@ -2,16 +2,34 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="_001_intro" />
         <module name="_003_e-commerce" />
-        <module name="_004_oopWithNLayeredApp" />
-        <module name="_005_oopCarsWithNLayeredApp" />
         <module name="_002_oop1" />
+        <module name="ArmstrongNumberChecker" />
+        <module name="_001_intro" />
+        <module name="demo" />
+        <module name="_004_oopWithNLayeredApp" />
+        <module name="TwoFriendsNumber" />
+        <module name="CountOfWord" />
+        <module name="_005_oopCarsWithNLayeredApp" />
+        <module name="Anagram" />
+        <module name="First10PerfectNumber" />
+        <module name="Fibonacci" />
+        <module name="UniqueCharController" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="_006_workshop.30.10.2023" target="1.7" />
+      <module name="_007_springFirstApp" target="21" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="demo" options="-parameters" />
+    </option>
   </component>
 </project>

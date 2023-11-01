@@ -9,10 +9,12 @@
         <option value="$PROJECT_DIR$/_003_e-commerce/pom.xml" />
         <option value="$PROJECT_DIR$/_004_oopWithNLayeredApp/pom.xml" />
         <option value="$PROJECT_DIR$/_005_oopCarsWithNLayeredApp/pom.xml" />
+        <option value="$PROJECT_DIR$/_006_workshop.30.10.2023/pom.xml" />
+        <option value="$PROJECT_DIR$/_007_springFirstApp/pom.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager">
+  <component name="ProjectRootManager" version="2" project-jdk-name="openjdk-21" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>
