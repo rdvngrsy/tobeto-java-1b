@@ -7,4 +7,5 @@
 - 30/10/2023 Workshop ==> <a href="https://github.com/rdvngrsy/tobeto-java-1b/tree/master/Examples/_006_workshop.30.10.2023">_006_workshop.30.10.2023</a>
 ### SPRING
 - 01/11/2023 Workshop ==> <a href="https://github.com/rdvngrsy/tobeto-java-1b/tree/master/Examples/_007_springFirstApp">_007_springFirstApp</a>
+- 03/11/2023 Workshop ==> <a href="https://github.com/rdvngrsy/tobeto-java-1b/tree/master/Examples/_008_springSecondApp">_008_springSecondApp</a>
 

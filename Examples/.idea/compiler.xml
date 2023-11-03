@@ -8,6 +8,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="_003_e-commerce" />
+        <module name="03.11.2023_workshop" />
         <module name="_002_oop1" />
         <module name="ArmstrongNumberChecker" />
         <module name="_001_intro" />
@@ -25,11 +26,17 @@
     <bytecodeTargetLevel>
       <module name="_006_workshop.30.10.2023" target="1.7" />
       <module name="_007_springFirstApp" target="21" />
+      <module name="_008_springSecondApp" target="21" />
+      <module name="demo (1)" target="17" />
+      <module name="demo (2)" target="17" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="03.11.2023_workshop" options="-parameters" />
       <module name="demo" options="-parameters" />
+      <module name="demo (1)" options="-parameters" />
+      <module name="demo (2)" options="-parameters" />
     </option>
   </component>
 </project>
