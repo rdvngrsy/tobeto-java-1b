@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="_002_variables" />
         <module name="_001_sayiBul" />
+        <module name="_003_conditionals" />
       </profile>
     </annotationProcessing>
   </component>
