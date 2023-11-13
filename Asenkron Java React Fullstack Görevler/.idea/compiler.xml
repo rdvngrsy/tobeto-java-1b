@@ -12,6 +12,7 @@
         <module name="_001_sayiBul" />
         <module name="_003_conditionals" />
         <module name="_005_switchDemo" />
+        <module name="_007_arraysDemo" />
       </profile>
     </annotationProcessing>
   </component>
