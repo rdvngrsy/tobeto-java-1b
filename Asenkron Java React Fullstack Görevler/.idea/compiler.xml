@@ -10,6 +10,7 @@
         <module name="_002_variables" />
         <module name="_001_sayiBul" />
         <module name="_003_conditionals" />
+        <module name="_005_switchDemo" />
       </profile>
     </annotationProcessing>
   </component>
