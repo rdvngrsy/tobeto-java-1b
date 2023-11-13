@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="_004_recapDemo1" />
         <module name="_002_variables" />
+        <module name="_006_loopDemo" />
         <module name="_001_sayiBul" />
         <module name="_003_conditionals" />
         <module name="_005_switchDemo" />
